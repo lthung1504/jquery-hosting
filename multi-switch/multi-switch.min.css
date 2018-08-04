@@ -64,7 +64,7 @@
  }
 
  .multi-switch .switch-content .info-slide.disable {
-     left: 0;
+     left: 50%;
      border-radius: 31px 0 0 31px;
      value: × -moz-border-radius:31px 0 0 31px;
      -webkit-border-radius: 31px 0 0 31px;
@@ -81,8 +81,8 @@
  }
 
  .multi-switch .switch-content.disabled {
-     background-color: #CCC;
-     cursor: default
+     background-color: black;
+     cursor: not-allowed
  }
 
  .multi-switch .switch-content.initial {
