@@ -64,8 +64,9 @@
  }
 
  .multi-switch .switch-content .info-slide.disable {
-     left: 50%;
+     left: 33%;
      margin-left: -14.5px;
+
      border-radius: 31px 0 0 31px;
      value: × -moz-border-radius:31px 0 0 31px;
      -webkit-border-radius: 31px 0 0 31px;
