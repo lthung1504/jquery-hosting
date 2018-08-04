@@ -83,7 +83,7 @@
  }
 
  .multi-switch .switch-content.disabled {
-     background-color: black;
+     background-color: transparent;
      cursor: not-allowed
  }
 
